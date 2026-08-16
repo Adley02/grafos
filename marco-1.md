@@ -62,5 +62,3 @@ Para cada caso de teste, deve ser apresentada em uma única linha a **quantidade
 
 ## Hipótese Inicial de Solução
 * Estamos utilizando um grafo direcionado porque a propagação da queda segue um fluxo unidirecional (efeito cascata).
-* O problema consiste em calcular a alcançabilidade a partir dos $L$ vértices iniciais empurrados manualmente.
-* Utilizaremos um algoritmo de busca (DFS ou BFS) e uma estrutura de controle (como um vetor de visitados) para percorrer todos os nós alcançáveis a partir das fontes manuais e retornar o total de dominós visitados.
