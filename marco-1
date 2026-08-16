@@ -1,0 +1,20 @@
+Questão Dos Dominós
+
+O problema apresenta um conjunto de dominós em que a queda de um dominó pode provocar a queda de outro e tambem existem alguns que são derrubados de maneira manual assim criando conexões
+//
+O objetivo é determinar quantos dominós cairam de maneira manual quanto os que caem por causa de outros dominós
+//
+A primeira linha contém um inteiro que representa a quantidade de casos de teste e para cada teste tem 3 dados
+N-M-L
+
+N = o numero de dominos 
+M = o numero de conexoes entre as peças
+L = o numero de dominos que cairam manualmente
+
+Depois disso as linhas que seguem mostram 2 dados que sao as conexoes feitas entre a peças
+
+E no final monstra um inteiro que contem os dominos que foram derrubados manualmente
+
+Para cada caso de teste deve ser apresentada a quantidade total de dominos que cairam
+
+Uma regra importante é que pode ser ate 10k o numero de peças
