@@ -58,6 +58,10 @@ Para cada caso de teste, deve ser apresentada em uma única linha a **quantidade
 2
 ```
 
+<img width="649" height="144" alt="image" src="https://github.com/user-attachments/assets/d5dba0c0-99b2-41c7-82e6-b98fd6b032d5" />
+
+
+
 ---
 
 ## Hipótese Inicial de Solução
