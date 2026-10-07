@@ -636,55 +636,9 @@ com a entrada fornecida pela entrada padrão.
 
 ---
 
-## 15. Resultado da submissão
 
-A solução deverá ser submetida ao problema:
 
-```text
-CSES Round Trip II
-```
-
-Após a submissão, deverá ser registrado o resultado obtido.
-
-### Resultado
-
-```text
-[INSERIR AQUI O RESULTADO DA SUBMISSÃO]
-```
-
-Quando a plataforma retornar:
-
-```text
-Accepted
-```
-
-a evidência deverá ser salva em:
-
-```text
-evidencias/accepted.png
-```
-
-ou:
-
-```text
-evidencias/accepted.pdf
-```
-
----
-
-## 16. Evidência do Accepted
-
-Após a aprovação da solução, inserir nesta seção a evidência da submissão.
-
-Exemplo:
-
-```md
-![Accepted no CSES](../evidencias/accepted.png)
-```
-
----
-
-## 17. Conclusão
+## 15. Conclusão
 
 A solução final do problema **CSES Round Trip II** foi baseada nas implementações Python de referência disponibilizadas na disciplina.
 
