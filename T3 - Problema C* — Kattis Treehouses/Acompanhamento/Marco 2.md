@@ -133,14 +133,3 @@ Essas complexidades correspondem à implementação de Kruskal que **gera e arma
 ### 2.6 Síntese da escolha
 
 O Kruskal foi selecionado porque minimiza o comprimento total dos cabos adicionados, respeitando os acessos e as conexões que já existem. No primeiro exemplo oficial do Kattis, a escolha de duas ligações resulta em um comprimento mínimo de aproximadamente `4.236068`, compatível com a saída esperada. Para a abordagem escolhida, a complexidade no pior caso é **`O(V² log V)` em tempo** e **`O(V²)` em espaço**.
-
----
-
----
-
-## Referências
-
-- [T3 — Resolução de Problemas com Grafos (Ricardo Carubbi)](https://github.com/carubbi/RPG/blob/main/mat-didatico/trabalhos/T3.md)
-- [Treehouses — Kattis](https://open.kattis.com/problems/treehouses)
-
-> O enunciado exige declarar o uso de IA no `README.md` e que os integrantes saibam justificar o conteúdo apresentado.
